@@ -4,19 +4,19 @@ import Image from "next/image";
 
 const photos = [
   {
-    src: "/images/gallery/photo-01.jpg",
+    src: "/pic1.jpg",
     alt: "Siddhu and Kavu",
   },
   {
-    src: "/images/gallery/photo-02.jpg",
+    src: "/pic2.jpg"",
     alt: "Siddhu and Kavu",
   },
   {
-    src: "/images/gallery/photo-03.jpg",
+    src: "/pic3.jpg"",
     alt: "Siddhu and Kavu",
   },
   {
-    src: "/images/gallery/photo-04.jpg",
+    src: "/pic4.jpg"",
     alt: "Siddhu and Kavu",
   },
 ];
