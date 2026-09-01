@@ -15,7 +15,6 @@ import Gallery from "@/components/Gallery";
 import FamilySection from "@/components/FamilySection";
 import VenueSection from "@/components/VenueSection";
 import RSVP from "@/components/RSVP";
-import MusicPlayer from "@/components/MusicPlayer";
 import FinalReveal from "@/components/FinalReveal";
 
 const chapters = [
@@ -72,8 +71,6 @@ export default function Home() {
       >
         <ChapterComponent />
       </div>
-
-      <MusicPlayer />
 
       <div className="fixed bottom-5 left-1/2 z-50 flex -translate-x-1/2 gap-1.5">
         {chapters.map((_, index) => (
