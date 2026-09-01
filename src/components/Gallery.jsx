@@ -8,15 +8,15 @@ const photos = [
     alt: "Siddhu and Kavu",
   },
   {
-    src: "/pic2.jpg"",
+    src: "/pic2.jpg",
     alt: "Siddhu and Kavu",
   },
   {
-    src: "/pic3.jpg"",
+    src: "/pic3.jpg",
     alt: "Siddhu and Kavu",
   },
   {
-    src: "/pic4.jpg"",
+    src: "/pic4.jpg",
     alt: "Siddhu and Kavu",
   },
 ];
